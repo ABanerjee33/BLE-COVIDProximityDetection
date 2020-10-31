@@ -2,10 +2,10 @@
 This repo contains the data, spreadsheets, and code used in the piPACT independent Study Project. 
 
 # Data Collection:
-The collected data zipped folder has folders that contain all the data associated with certain hypotheses experimentation. 
+The collected data is contained in a folder organized with  data associated with certain hypotheses in the study. 
 The .csv files also list some specifics about the data (e.g. it was collected with no obstructions in the way)
 
-## Zipped File
+## Data File
 ### >Hypothesis_1 data
 #### .csv files containing data collected at different distances
 ### Hypothesis_2 data
