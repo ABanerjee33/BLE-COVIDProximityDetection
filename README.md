@@ -1,5 +1,5 @@
 # piPACT
-This repo contains the data, spreadsheets, and code used in the piPACT independent Study Project. 
+This repo contains the data, spreadsheets, and code I used in my piPACT independent Study Project. 
 
 # Data Collection:
 The collected data is contained in a folder organized with  data associated with certain hypotheses in the study. 
