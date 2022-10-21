@@ -1,6 +1,7 @@
-# piPACT
-This repo contains the data, spreadsheets, and code I used in my piPACT independent Study Project. 
+# Overview
+This repo contains the code generated and data gathered in my COVID BLE independent Study Project. 
 
+#Final Report
 <a href="https://drive.google.com/file/d/1X6572iF5Cke2QAGJyMCGr7ZBpC5bxtc2/view?usp=sharing" target="_blank">Link to final written report</a>
 
 # Data Collection:
