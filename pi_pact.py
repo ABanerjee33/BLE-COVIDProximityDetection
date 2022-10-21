@@ -2,7 +2,7 @@
 # -*- mode: python; coding: utf-8 -*-
 """Bluetooth Low Energy (BLE) beacon advertisement and scanning.
 
-Execution of a BLE beacon for use in BWSI PiPact independent project. 
+Execution of a BLE beacon for use in BLE independent project. 
 Configuration of beacon done via external YAML. Underlying functionality 
 provided by PyBluez module (https://github.com/pybluez/pybluez). Beacon 
 uses iBeacon format (https://en.wikipedia.org/wiki/IBeacon).
