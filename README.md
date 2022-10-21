@@ -2,10 +2,10 @@
 This repo contains the code generated and data gathered in my COVID BLE independent Study Project. 
 
 # Final Report
-[![github](https://i.ibb.co/8DbpZpq/Screenshot-2022-10-21-005854.png)[https://drive.google.com/file/d/1X6572iF5Cke2QAGJyMCGr7ZBpC5bxtc2/view?usp=sharing]
+[![github]()[]
 
+[<img alt="alt_text" width="40px" src="https://i.ibb.co/8DbpZpq/Screenshot-2022-10-21-005854.png" />](https://drive.google.com/file/d/1X6572iF5Cke2QAGJyMCGr7ZBpC5bxtc2/view?usp=sharing)
 
-https://user-images.githubusercontent.com/66737209/197114598-2a556311-bcbb-4c27-9c8d-7d1d5cfddd16.png
 <a href="https://drive.google.com/file/d/1X6572iF5Cke2QAGJyMCGr7ZBpC5bxtc2/view?usp=sharing" target="_blank">Link to final written report</a>
 
 # Data Collection:
