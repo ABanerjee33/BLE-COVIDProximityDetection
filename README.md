@@ -2,11 +2,7 @@
 This repo contains the code generated and data gathered in my COVID BLE independent Study Project. 
 
 # Final Report
-[![github]()[]
-
-[<img alt="alt_text" width="40px" src="https://i.ibb.co/8DbpZpq/Screenshot-2022-10-21-005854.png" />](https://drive.google.com/file/d/1X6572iF5Cke2QAGJyMCGr7ZBpC5bxtc2/view?usp=sharing)
-
-<a href="https://drive.google.com/file/d/1X6572iF5Cke2QAGJyMCGr7ZBpC5bxtc2/view?usp=sharing" target="_blank">Link to final written report</a>
+[<img alt="alt_text" src="https://i.ibb.co/8DbpZpq/Screenshot-2022-10-21-005854.png" />](https://drive.google.com/file/d/1X6572iF5Cke2QAGJyMCGr7ZBpC5bxtc2/view?usp=sharing)
 
 # Data Collection:
 The collected data is contained in a folder organized with  data associated with certain hypotheses in the study. 
